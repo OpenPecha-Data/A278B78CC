@@ -1,0 +1,19 @@
+id: A278B78CC
+title: Song of the Feast (Tsok Lu)
+type: translation
+pechas:
+- ICC444FEA
+- I0834CD71
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:44:56.534215
+  last_modified_at: 2023-01-04 12:44:56.534237
+  collections:
+  - Jigme Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  ICC444FEA/8FE8: '1125'
+  I0834CD71/288D: '1125'
